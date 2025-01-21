@@ -1,0 +1,13 @@
+body{background-color: darkcyan;}
+li{background-color:azure;display:inline;}
+#piedepagina-principal{background-color: aquamarine;}
+#barralateral-principal{background-color: beige;float: left;height: 900px;}
+#principal-section{margin-left:200px;}
+#principal-section-2{clear: both;}
+#heater-principal{padding-left: 0;}
+#art-1-acercadenosotros{}
+#art-2-nuestroenfoque{}
+#art-3-diseñopersonalizado{display: inline;}
+#art-4-reparacionesexpertas{display: inline;}
+#art-5-soldaduradepresicion{}
+#art-6-diseñoconsolidworks{}
